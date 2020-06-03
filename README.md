@@ -19,7 +19,7 @@ There are a total of 4 different versions and the differences are lists as such:
 - This data include drawings dating back to 5/15/2002
 
 ## Results
-A chi-square analysis was performed on the Mega Balls for each of the versions. The resulting p-values show that the numbers are not significant at the 0.05 threshold.  This indicates that according to the chi-square test, we have failed to reject the null hypothesis and we therefore can conclude that the Mega balls are drawn at random.
+A chi-square analysis was performed on the Mega Balls for each of the versions. The resulting p-values show that the numbers are not significant at the 0.05 threshold.  This indicates that according to the chi-square test, we have failed to reject the null hypothesis and we therefore can conclude that the Mega ball numbers are drawn at random.
 
 - The Mega ball for version 1 had a p-value of 0.108
 - The Mega ball for version 2 had a p-value of 0.992
