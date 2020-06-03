@@ -17,5 +17,5 @@ There are a total of 4 different versions and the differences are lists as such:
 - (Version 3: 10/22/2013 - 10/27/2017) There are 75 white balls and 15 mega balls
 - (Version 4: 10/31/2017 - Present) There are 70 white balls and 25 mega balls
 
-## Notes
+## Result
 A chi-square analysis was performed on the Mega Balls for each of the versions. The resulting p-values show that the numbers are not significant at the 0.05 threshold.
